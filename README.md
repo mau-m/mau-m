@@ -5,11 +5,11 @@
 
 - 📊 Tambien estoy estudiando temas de Ciencia de datos e Inteligencia Artificial con los siguiente lenguajes: **Python, Julia y Go**
 
-- 💻 Me gustan los temas de algoritmos, inteligencia artificial, optimizacion, desarrollo de software, computo de alto rendimiento.
+- 💻 Me gustan los temas de algoritmos, inteligencia artificial, optimizacion, desarrollo de software y computo de alto rendimiento.
 
 - 📓 Me gustan mucho las matematicas y la tecnologia!
 
-- 🎮 En mis tiempos libres me gusta jugar videojuegos o ver peliculas.
+- 🎮 En mis tiempos libres me gusta jugar videojuegos y ver peliculas.
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
