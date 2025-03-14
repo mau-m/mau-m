@@ -5,7 +5,7 @@
 
 - 📊 También estoy estudiandó temas de Ciencia de datos e Inteligencia Artificial con los siguiente lenguajes: **Python, Julia y Go**
 
-- 💻 Mis principales temas de interés son inteligencia artificial desarrollo de software y cómputo de alto rendimiento.
+- 💻 Mis principales temas de interés son inteligencia artificial, desarrollo de software y cómputo de alto rendimiento.
 
 - 📓 ¡Me apasionan mucho las matemáticas y la tecnología!
 
