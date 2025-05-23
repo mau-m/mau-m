@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo desarrollo Backend con **Spring** en **Kotlin** y **Java**
 
-- 📊 Ademas, estoy estudiandó temas de Ciencia de datos e Inteligencia Artificial con los siguiente lenguajes: **Python, Julia y Go**
+- 📊 Ademas, estoy estudiandó Ciencia de datos e Inteligencia Artificial con los siguiente lenguajes: **Python, Julia y Go**
 
 - 💻 Mis principales temas de interés son desarrollo de software, inteligencia artificial y ciencia de datos.
 
