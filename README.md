@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, mi nombre es Mauricio</h1>
 <h3 align="center">Soy estudiante de Computación en UAM-I 🧑‍💻💚</h3>
 
-- 🌱 Actualmente estoy aprendiendo desarrollo Backend en **Spring** con **Kotlin** y **Java**
+- 🌱 Actualmente estoy aprendiendo desarrollo Backend con **Spring** en **Kotlin** y **Java**
 
-- 📊 También estoy estudiandó temas de Ciencia de datos e Inteligencia Artificial con los siguiente lenguajes: **Python, Julia y Go**
+- 📊 Ademas, estoy estudiandó temas de Ciencia de datos e Inteligencia Artificial con los siguiente lenguajes: **Python, Julia y Go**
 
-- 💻 Mis principales temas de interés son inteligencia artificial, desarrollo de software y cómputo de alto rendimiento.
+- 💻 Mis principales temas de interés son desarrollo de software, inteligencia artificial y ciencia de datos.
 
 - 📓 ¡Me apasionan mucho las matemáticas y la tecnología!
 
